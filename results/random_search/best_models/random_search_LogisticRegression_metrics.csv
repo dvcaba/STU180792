@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1 Score,ROC AUC,Model,solver,penalty,max_iter,C
+0.47520661157024796,0.5757575757575758,0.2773722627737226,0.37438423645320196,0.48397636426833507,LogisticRegression,newton-cg,l2,1000,100.0

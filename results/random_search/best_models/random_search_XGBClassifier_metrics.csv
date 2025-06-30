@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1 Score,ROC AUC,Model,subsample,reg_lambda,reg_alpha,n_estimators,max_depth,learning_rate,gamma,colsample_bytree
+0.5041322314049587,0.6075949367088608,0.35036496350364965,0.4444444444444444,0.5342370524852277,XGBClassifier,0.6,0.0,0.01,500,8,0.1,0.3,0.6

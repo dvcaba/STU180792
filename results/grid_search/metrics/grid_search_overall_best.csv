@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1 Score,ROC AUC,Model,C,max_iter,solver,max_depth,n_estimators,random_state,learning_rate,gamma,kernel
+0.5,0.5930232558139535,0.3722627737226277,0.45739910313901344,0.5138686131386861,SVC,10.0,,,,,,,auto,rbf

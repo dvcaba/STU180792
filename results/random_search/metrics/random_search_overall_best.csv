@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1 Score,ROC AUC,Model,solver,penalty,max_iter,C,random_state,n_estimators,min_samples_split,min_samples_leaf,max_features,max_depth,bootstrap,subsample,reg_lambda,reg_alpha,learning_rate,gamma,colsample_bytree,kernel,degree,coef0
+0.5661157024793388,0.5661157024793388,1.0,0.7229551451187335,0.5851581508515814,SVC,,,,1000.0,,,,,,,,,,,,0.01,,sigmoid,3.0,1.0

@@ -1,0 +1,34 @@
+# Entorno virtual
+venv/
+.venv/
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Configuración de entorno en VS Code
+.vscode/
+
+# Archivos de bases de datos temporales
+*.sqlite3
+
+# Archivos de salida de pruebas u operaciones temporales
+*.out
+*.tmp
+
+# Archivos de configuración locales o credenciales
+.env
+
+# Archivos de caché de pip
+pip-log.txt
+pip-delete-this-directory.txt

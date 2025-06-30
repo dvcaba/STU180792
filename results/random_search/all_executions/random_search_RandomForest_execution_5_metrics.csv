@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1 Score,ROC AUC,Model,random_state,n_estimators,min_samples_split,min_samples_leaf,max_features,max_depth,bootstrap
+0.4973262032085561,0.6153846153846154,0.3018867924528302,0.4050632911392405,0.521037153505707,RandomForestClassifier,42,100,2,1,sqrt,,True
